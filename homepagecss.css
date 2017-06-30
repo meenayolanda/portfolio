@@ -40,10 +40,13 @@ img {
   width: 300px;
   position: relative;
   top: 75px;
+  right: 607px;
 }
 
 
 p {
   position: relative;
+  top:75px;
+  right: 600px;
   color: black;
 }
